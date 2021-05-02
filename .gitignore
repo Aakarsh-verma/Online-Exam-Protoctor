@@ -1,0 +1,10 @@
+__pycache__/
+.github/
+.ipynb_checkpoints/
+data/aaka
+data/akv
+data/Kumar
+data/newakv
+data/Ver
+models/yolov3.weights
+face_detection/faces/
